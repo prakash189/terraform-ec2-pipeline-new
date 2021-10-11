@@ -34,8 +34,8 @@ variable "zone2" {
 }
 
 variable "ami_id" {
-    description = "ami id for ec2 server"
-    default = "ami-082105f875acab993"
+    description = "ami id for ubuntu server"
+    default = "ami-055147723b7bca09a"
   
 }
 
