@@ -46,6 +46,6 @@ variable "instance_type" {
 
 variable "keyname" {
     description = "key name"
-    default = "ansible-master"
+    default = "terraform-new"
   
 }
