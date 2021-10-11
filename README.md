@@ -1,1 +1,1 @@
-# terraform-ec2-pipeline-new
+# terraform-ec2-pipeline
